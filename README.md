@@ -56,20 +56,21 @@ SPAPI_GSS/
 - 目的：SP-API の注文レポートを作成→ダウンロード→シートへ直接書き込み。
 - 実行：
 python demo_spapi/spapi_to_sheet_direct.py
+- 出力例：
 
-出力例：
+```text
 [INFO] Creating report ...
 [INFO] reportId: 50028020354
 [DONE] Wrote to sheet: 1FNp... orders_report (existing)
 URL: https://docs.google.com/spreadsheets/d/xxxx/edit
+```
 
 2) TSV 疑似デモ（ダミーデータ）
 - 目的：実データが無くても、シートに入るとこう見えるを再現。
-
 - 実行：
 python demo_tsv/to_Orders.py
-入力：demo_tsv/orders_report.tsv（ダミー）
-出力：指定タブへ全置換で反映（中途半端な表示を避けるため一時タブ→リネームのアトミック更新を実装）
+- 入力：demo_tsv/orders_report.tsv（ダミー）
+- 出力：指定タブへ全置換で反映（中途半端な表示を避けるため一時タブ→リネームのアトミック更新を実装）
 
 >鍵が無い状態で実行可能なのは TSV疑似デモ（Googleのサービスアカウントだけ必要）です。
 
