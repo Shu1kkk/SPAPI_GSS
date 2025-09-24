@@ -5,7 +5,7 @@
 ---
 
 ## 概要
-- Amazon Selling Partner API（SP-API）の**注文レポート**を作成 → ダウンロード（TSV） → **Google スプレッドシートへ転記**します。
+- Amazon Selling Partner API（SP-API）の**注文レポート**を作成 →  **Google スプレッドシートへ転記**します。
 - 実データが無い環境でも見た目を確認できるよう、**TSV疑似デモ**も同梱しています。
 - いずれも **秘密情報はリポジトリに含めません**（`.env.sample` を参照）。
 
