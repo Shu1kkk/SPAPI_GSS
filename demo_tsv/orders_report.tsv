@@ -1,0 +1,51 @@
+order-id	purchase-date	last-updated-date	order-status	fulfillment-channel	sales-channel	ship-service-level	sku	product-name	quantity-purchased	item-price	currency	buyer-email	recipient-name	ship-postal-code	ship-state	ship-city	ship-country
+JP31-4744854-3341057	2025-09-12T03:01:00Z	2025-09-13T15:01:00Z	Unshipped	MFN	Amazon Marketplace	Standard	SKU-USB-C-1M	USB-C ケーブル 1m	1	880	JPY	hsahxthv@example.com	佐藤 太郎	530-0001	27	Osaka	JP
+JP19-4612365-6647119	2025-09-14T13:21:00Z	2025-09-16T01:21:00Z	Shipped	AFN	Amazon.co.jp	Expedited	SKU-KEYBOARD	ワイヤレスキーボード	2	5960	JPY	jbqe7ckw@example.com	渡辺 さくら	600-0001	26	Kyoto	JP
+JP84-4823498-5855124	2025-08-29T22:04:00Z	2025-08-30T04:04:00Z	Pending	MFN	Amazon.co.jp	Expedited	SKU-MICROSD128	microSD 128GB	2	4360	JPY	wnnhj7xv@example.com	田中 一郎	650-0001	28	Kobe	JP
+JP48-5528972-4684531	2025-09-15T07:10:00Z	2025-09-17T19:10:00Z	Unshipped	MFN	Amazon.co.jp	Standard	SKU-KEYBOARD	ワイヤレスキーボード	2	5960	JPY	jh75lxo6@example.com	中村 愛	530-0001	27	Osaka	JP
+JP68-5408072-8187926	2025-08-31T04:15:00Z	2025-09-03T04:15:00Z	Unshipped	AFN	Amazon Marketplace	Standard	SKU-IPH-CASE	iPhone ケース 透明	2	2560	JPY	r14ffyvn@example.com	加藤 直子	330-0001	11	Saitama	JP
+JP87-2921859-5476583	2025-09-08T08:35:00Z	2025-09-08T10:35:00Z	Unshipped	AFN	Amazon.co.jp	Expedited	SKU-MOUSE	ワイヤレスマウス	1	1580	JPY	q85jsg65@example.com	伊藤 次郎	650-0001	28	Kobe	JP
+JP97-3710343-9897858	2025-09-11T06:09:00Z	2025-09-13T06:09:00Z	Pending	AFN	Amazon Marketplace	Standard	SKU-USB-C-2M	USB-C ケーブル 2m	1	1080	JPY	53lc58dr@example.com	鈴木 花子	650-0001	28	Kobe	JP
+JP70-3770370-5446912	2025-09-16T04:08:00Z	2025-09-18T17:08:00Z	Shipped	AFN	Amazon.co.jp	Prime	SKU-MICROSD64	microSD 64GB	3	4140	JPY	l9xpseim@example.com	加藤 直子	650-0001	28	Kobe	JP
+JP09-1987737-4841005	2025-08-30T18:14:00Z	2025-08-30T19:14:00Z	Shipped	MFN	Amazon Marketplace	Standard	SKU-POUCH	ガジェットポーチ	1	980	JPY	krt05uir@example.com	山本 健	460-0001	23	Nagoya	JP
+JP45-8106470-7897151	2025-08-26T03:42:00Z	2025-08-28T11:42:00Z	Shipped	MFN	Amazon.co.jp	Standard	SKU-MOUSE	ワイヤレスマウス	3	4740	JPY	m5igqpki@example.com	鈴木 花子	330-0001	11	Saitama	JP
+JP83-1247595-2564689	2025-09-17T17:06:00Z	2025-09-18T00:06:00Z	Pending	MFN	Amazon.co.jp	Expedited	SKU-CHARGER	急速充電器 20W	2	3560	JPY	hocn9j2q@example.com	山本 健	650-0001	28	Kobe	JP
+JP24-5977931-4652414	2025-09-13T22:31:00Z	2025-09-14T18:31:00Z	Pending	MFN	Amazon Marketplace	Standard	SKU-USB-C-1M	USB-C ケーブル 1m	2	1760	JPY	r7tcs4cc@example.com	高橋 美咲	210-0001	14	Kawasaki	JP
+JP79-2375453-8033426	2025-08-26T18:15:00Z	2025-08-27T00:15:00Z	Unshipped	AFN	Amazon Marketplace	Standard	SKU-KEYBOARD	ワイヤレスキーボード	1	2980	JPY	jexq77aw@example.com	加藤 直子	220-0001	14	Yokohama	JP
+JP33-3222252-6855396	2025-08-25T17:13:00Z	2025-08-28T10:13:00Z	Unshipped	MFN	Amazon Marketplace	Expedited	SKU-IPH-CASE	iPhone ケース 透明	2	2560	JPY	4zw9xa3k@example.com	鈴木 花子	530-0001	27	Osaka	JP
+JP95-3607983-5569244	2025-08-31T03:56:00Z	2025-08-31T17:56:00Z	Shipped	MFN	Amazon Marketplace	Standard	SKU-MICROSD128	microSD 128GB	2	4360	JPY	r64dpja1@example.com	伊藤 次郎	530-0001	27	Osaka	JP
+JP71-1162230-2876932	2025-09-15T14:35:00Z	2025-09-17T21:35:00Z	Shipped	MFN	Amazon.co.jp	Expedited	SKU-HUB	USB-C ハブ 5in1	2	6560	JPY	fel6246h@example.com	高橋 美咲	220-0001	14	Yokohama	JP
+JP79-3592974-4971793	2025-09-03T17:56:00Z	2025-09-05T22:56:00Z	Unshipped	MFN	Amazon Marketplace	Standard	SKU-IPH-CASE	iPhone ケース 透明	3	3840	JPY	72oy0ifz@example.com	山本 健	100-0001	13	Tokyo	JP
+JP58-6866294-6120253	2025-09-19T15:14:00Z	2025-09-20T17:14:00Z	Unshipped	MFN	Amazon.co.jp	Standard	SKU-MICROSD64	microSD 64GB	2	2760	JPY	l58kxo9t@example.com	佐藤 太郎	220-0001	14	Yokohama	JP
+JP04-2818692-8290770	2025-09-20T08:11:00Z	2025-09-21T18:11:00Z	Shipped	AFN	Amazon Marketplace	Prime	SKU-POUCH	ガジェットポーチ	1	980	JPY	nujza7tz@example.com	高橋 美咲	810-0001	40	Fukuoka	JP
+JP79-6266630-3090865	2025-09-05T02:42:00Z	2025-09-06T21:42:00Z	Unshipped	AFN	Amazon Marketplace	Prime	SKU-MOUSE	ワイヤレスマウス	1	1580	JPY	okep7y6w@example.com	伊藤 次郎	210-0001	14	Kawasaki	JP
+JP26-8212326-6406444	2025-09-09T00:19:00Z	2025-09-10T13:19:00Z	Shipped	AFN	Amazon.co.jp	Prime	SKU-CHARGER	急速充電器 20W	3	5340	JPY	gdswm31y@example.com	高橋 美咲	460-0001	23	Nagoya	JP
+JP60-2221854-8640615	2025-08-27T00:02:00Z	2025-08-28T08:02:00Z	Shipped	MFN	Amazon Marketplace	Expedited	SKU-MOUSE	ワイヤレスマウス	1	1580	JPY	fy6452h2@example.com	小林 涼	330-0001	11	Saitama	JP
+JP58-3237058-8795419	2025-08-24T17:15:00Z	2025-08-25T09:15:00Z	Unshipped	AFN	Amazon Marketplace	Prime	SKU-POUCH	ガジェットポーチ	2	1960	JPY	3t60rjiw@example.com	小林 涼	330-0001	11	Saitama	JP
+JP09-5793722-4934149	2025-09-12T07:17:00Z	2025-09-14T16:17:00Z	Shipped	AFN	Amazon.co.jp	Standard	SKU-IPH-CASE	iPhone ケース 透明	1	1280	JPY	nfholqc3@example.com	山本 健	600-0001	26	Kyoto	JP
+JP61-1098919-6901533	2025-09-14T00:54:00Z	2025-09-16T01:54:00Z	Shipped	AFN	Amazon Marketplace	Prime	SKU-POUCH	ガジェットポーチ	2	1960	JPY	6rjrny20@example.com	中村 愛	530-0001	27	Osaka	JP
+JP75-1454696-2408404	2025-09-11T17:01:00Z	2025-09-13T20:01:00Z	Unshipped	MFN	Amazon Marketplace	Standard	SKU-USB-C-1M	USB-C ケーブル 1m	1	880	JPY	nhl1n13j@example.com	鈴木 花子	330-0001	11	Saitama	JP
+JP44-4761823-2151225	2025-08-23T23:34:00Z	2025-08-24T06:34:00Z	Unshipped	MFN	Amazon.co.jp	Standard	SKU-MICROSD64	microSD 64GB	1	1380	JPY	wire8qjn@example.com	加藤 直子	600-0001	26	Kyoto	JP
+JP39-2813596-1430812	2025-09-15T22:07:00Z	2025-09-16T19:07:00Z	Pending	AFN	Amazon Marketplace	Prime	SKU-MICROSD64	microSD 64GB	1	1380	JPY	v3izky22@example.com	加藤 直子	100-0001	13	Tokyo	JP
+JP08-9488613-6724909	2025-09-03T17:27:00Z	2025-09-05T17:27:00Z	Shipped	AFN	Amazon Marketplace	Standard	SKU-MOUSE	ワイヤレスマウス	1	1580	JPY	w3zp08j3@example.com	小林 涼	330-0001	11	Saitama	JP
+JP41-5118725-2453962	2025-09-06T13:52:00Z	2025-09-08T00:52:00Z	Shipped	AFN	Amazon.co.jp	Expedited	SKU-HUB	USB-C ハブ 5in1	2	6560	JPY	ymrlrmjk@example.com	加藤 直子	060-0001	01	Sapporo	JP
+JP10-5049282-7818732	2025-09-09T00:33:00Z	2025-09-10T01:33:00Z	Shipped	MFN	Amazon Marketplace	Prime	SKU-CHARGER	急速充電器 20W	2	3560	JPY	2dhylurt@example.com	山本 健	650-0001	28	Kobe	JP
+JP34-6144280-5217853	2025-09-02T11:44:00Z	2025-09-04T22:44:00Z	Shipped	MFN	Amazon Marketplace	Standard	SKU-POUCH	ガジェットポーチ	3	2940	JPY	ghr09skd@example.com	高橋 美咲	060-0001	01	Sapporo	JP
+JP01-9961299-3123709	2025-08-30T11:11:00Z	2025-09-01T02:11:00Z	Shipped	MFN	Amazon Marketplace	Prime	SKU-IPH-CASE	iPhone ケース 透明	3	3840	JPY	5r5uqpgb@example.com	中村 愛	220-0001	14	Yokohama	JP
+JP09-1899411-3545556	2025-09-18T02:25:00Z	2025-09-20T17:25:00Z	Shipped	AFN	Amazon.co.jp	Standard	SKU-USB-C-2M	USB-C ケーブル 2m	2	2160	JPY	1v2isqp4@example.com	山本 健	060-0001	01	Sapporo	JP
+JP97-4486102-4540415	2025-09-10T19:03:00Z	2025-09-11T08:03:00Z	Shipped	MFN	Amazon.co.jp	Standard	SKU-IPH-CASE	iPhone ケース 透明	2	2560	JPY	caqvkizz@example.com	中村 愛	220-0001	14	Yokohama	JP
+JP80-4318855-8132648	2025-09-13T07:59:00Z	2025-09-14T17:59:00Z	Shipped	MFN	Amazon.co.jp	Expedited	SKU-IPH-CASE	iPhone ケース 透明	1	1280	JPY	c2v37pqk@example.com	山本 健	060-0001	01	Sapporo	JP
+JP10-1668752-8248238	2025-09-08T17:31:00Z	2025-09-11T02:31:00Z	Unshipped	AFN	Amazon.co.jp	Standard	SKU-MICROSD64	microSD 64GB	3	4140	JPY	4u89yjb1@example.com	中村 愛	650-0001	28	Kobe	JP
+JP23-8312936-9249789	2025-09-12T14:58:00Z	2025-09-14T02:58:00Z	Pending	AFN	Amazon Marketplace	Expedited	SKU-KEYBOARD	ワイヤレスキーボード	1	2980	JPY	y4lyk83t@example.com	中村 愛	220-0001	14	Yokohama	JP
+JP98-7780932-9633492	2025-09-02T08:20:00Z	2025-09-02T23:20:00Z	Unshipped	MFN	Amazon Marketplace	Expedited	SKU-USB-C-1M	USB-C ケーブル 1m	1	880	JPY	swrpbjek@example.com	中村 愛	220-0001	14	Yokohama	JP
+JP90-3657144-6213522	2025-08-23T20:38:00Z	2025-08-25T03:38:00Z	Shipped	AFN	Amazon.co.jp	Standard	SKU-USB-C-2M	USB-C ケーブル 2m	2	2160	JPY	8xf7kzor@example.com	中村 愛	460-0001	23	Nagoya	JP
+JP24-9526867-3290229	2025-09-06T17:09:00Z	2025-09-08T19:09:00Z	Unshipped	AFN	Amazon Marketplace	Expedited	SKU-POUCH	ガジェットポーチ	1	980	JPY	3kkv9rft@example.com	渡辺 さくら	810-0001	40	Fukuoka	JP
+JP41-4165061-5006492	2025-09-09T17:24:00Z	2025-09-12T04:24:00Z	Shipped	MFN	Amazon Marketplace	Standard	SKU-KEYBOARD	ワイヤレスキーボード	3	8940	JPY	r6n92xf8@example.com	田中 一郎	650-0001	28	Kobe	JP
+JP56-2672884-9823994	2025-09-10T10:55:00Z	2025-09-10T23:55:00Z	Pending	MFN	Amazon.co.jp	Expedited	SKU-IPH-CASE	iPhone ケース 透明	1	1280	JPY	q8myx444@example.com	山本 健	810-0001	40	Fukuoka	JP
+JP69-1602286-2147909	2025-09-12T22:56:00Z	2025-09-15T13:56:00Z	Shipped	AFN	Amazon.co.jp	Prime	SKU-USB-C-2M	USB-C ケーブル 2m	2	2160	JPY	91zdfkbl@example.com	佐藤 太郎	060-0001	01	Sapporo	JP
+JP31-9911492-7913081	2025-09-03T11:27:00Z	2025-09-04T06:27:00Z	Shipped	MFN	Amazon.co.jp	Standard	SKU-USB-C-2M	USB-C ケーブル 2m	2	2160	JPY	5wi6fqjj@example.com	佐藤 太郎	330-0001	11	Saitama	JP
+JP20-2239197-8410995	2025-09-20T09:43:00Z	2025-09-23T07:43:00Z	Pending	AFN	Amazon Marketplace	Prime	SKU-MICROSD128	microSD 128GB	2	4360	JPY	4hnriuu9@example.com	伊藤 次郎	100-0001	13	Tokyo	JP
+JP01-1822825-9333700	2025-09-18T21:25:00Z	2025-09-20T09:25:00Z	Unshipped	AFN	Amazon.co.jp	Prime	SKU-KEYBOARD	ワイヤレスキーボード	1	2980	JPY	wwyzx4w6@example.com	佐藤 太郎	060-0001	01	Sapporo	JP
+JP93-3204724-2512187	2025-09-17T14:02:00Z	2025-09-19T13:02:00Z	Pending	AFN	Amazon Marketplace	Standard	SKU-MICROSD64	microSD 64GB	1	1380	JPY	25nsjf67@example.com	伊藤 次郎	810-0001	40	Fukuoka	JP
+JP18-4785186-7667458	2025-09-17T03:29:00Z	2025-09-17T13:29:00Z	Pending	AFN	Amazon.co.jp	Expedited	SKU-USB-C-1M	USB-C ケーブル 1m	1	880	JPY	tqyyv37d@example.com	高橋 美咲	330-0001	11	Saitama	JP
+JP41-4713925-2060605	2025-08-23T19:56:00Z	2025-08-26T19:56:00Z	Unshipped	AFN	Amazon Marketplace	Prime	SKU-MOUSE	ワイヤレスマウス	1	1580	JPY	f8krd5eq@example.com	小林 涼	210-0001	14	Kawasaki	JP
